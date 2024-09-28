@@ -1,8 +1,8 @@
 //DSA BootCamp
 
 
-//recursion Method example : 
-/*
+recursion Method example : 
+
 class bootcamp{
 	static void fun(int x)
 	{
@@ -20,8 +20,8 @@ class bootcamp{
 */
 //Searching algorithms: 
 
-//1. linear search:
-/*
+1. linear search:
+
 class bootcamp
 {
 	static int  linearsearch(int[] arr,int key,int index)
@@ -46,8 +46,8 @@ class bootcamp
 	}
 	}
 */
-//2. Binary Search:
-/*
+2. Binary Search:
+
 class bootcamp{
 	static int binarysearch(int [] arr,int key , int low , int high)
 	{
